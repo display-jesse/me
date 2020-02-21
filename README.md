@@ -1,2 +1,2 @@
 # hello
-<img src=".img/CV.png">
+![Test Image 4](https://github.com/tograh/testrepository/3DTest.png)
