@@ -366,16 +366,36 @@ ol {
 	Header section
 -----------------------*/
 .header-section {
-	padding: 50px 40px;
+	
 	background: #f2f7f8;
 }
 
 .site-logo h2 {
-	font-size: 36px;
+	font-size: 170px;
+	line-height: normal;
+	color:aliceblue
+}
+.header-info h2 {
+
 }
 
+.header-info ul {
+	list-style: none;
+}
+
+.header-info ul li {
+	font-size: 24px;
+	color: #808181;
+	margin-bottom: 15px;
+}
+
+.header-info ul li span {
+	color: #bcbec7;
+	display: inline-block;
+	min-width: 220px;
+}
 .site-logo h2 a {
-	color: #40424a;
+	color: #bbbdc4;
 }
 
 .site-logo p {
